@@ -1,4 +1,6 @@
-👋 Hi, I’m Pleasant😊
+👋 Hi, my name is Pleasant and I am Pleasant 😊
+
+😁 Pronouns-She
 
 🎯 Data analyst| SQL Enthusiast| Problem Solver
 -
@@ -23,10 +25,12 @@ I’m transitioning to tech while being a full-time mom and Entrepreneur! 🚀
 -
  💞️ I’m looking to collaborate on several projects.You can reach me via;
 
-   LinkedIn : www.
+   LinkedIn:
+   https://shorturl.at/luzLe
+   
+   Email : 
+   ihuomapleasant3@gmail.com
   
-- 😄 Pronouns: ...
-- 
 
 <!---
 Coachpee/Coachpee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
