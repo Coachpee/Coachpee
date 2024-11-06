@@ -2,7 +2,7 @@
 
 😁 Pronouns-She
 
-🎯 Data analyst| SQL Enthusiast| Problem Solver
+🎯 Data analyst| PowerBI Enthusiast| Problem Solver
 -
 🌱 I’m currently honing my skills in Microsoft Excel,SQL and Power BI
 
